@@ -1,0 +1,30 @@
+<label for="Province">Province /City:</label><span style="color: red !important; display: inline; float: none;">*</span>
+                                        <select name="Province" id="Province" required class="form-control">
+                                            <option value="Phom Phenh(Capital City)">Phom Phenh(Capital City)</option>
+                                            <option value="Kampong Cham">Kampong Cham</option>
+                                            <option value="Ta Keo">Ta Keo</option>
+                                            <option value="Battambang">Battambang</option>
+                                            <option value="Koh kong ">Koh kong</option>
+                                            <option value="Mondulkiri">Mondulkiri</option>
+                                            <option value="Rattanakiri">Rattanakiri</option>
+                                            <option value="Siem Reap">Siem Reap</option>
+                                            <option value="Prey Veng">Prey Veng</option>
+                                            <option value="Kampong Chanang">Kampong Chanang</option>
+                                            <option value="Banteay Meanchey">Banteay Meanchey</option>
+                                            <option value="Svay Rieng">Svay Rieng</option>
+                                            <option value="Ousdom Meanchey">Ousdom Meanchey</option>
+                                            <option value="Kep">Kep</option>
+                                            <option value="Preah Vihear">Preah Vihear</option>
+                                            <option value="Kratie">Kratie</option>
+                                            <option value="Tbong Kmom">Tbong Kmom</option>
+                                            <option value="Kampot">Kampot</option>
+                                            <option value="Preah Sihanouk">Preah Sihanouk</option>
+                                            <option value="Kandal">Kandal</option>
+                                            <option value="Pailin">Pailin</option>
+                                            <option value="Tbong Khmum">Tbong Khmum</option>
+                                            <option value="Stung Treng">Stung Treng</option>
+                                            <option value="Kampong Thom">Kampong Thom</option>
+                                            <option value="Oddar Meanchey">Oddar Meanchey</option>
+                                            <option value="Pursat">Pursat</option>
+                                            <option value="Kampong Speu">Kampong Speu</option>
+                                        </select>
